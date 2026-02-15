@@ -4,7 +4,7 @@ A simple project built while learning web development.
 A responsive frontend website built using **HTML** and **CSS (Flexbox)**.  
 This project demonstrates modern layout techniques using `display: flex`, `justify-content`, `align-items`, and `flex-wrap`.
 
-This website is a course recommendation platform UI that includes:
+This website is a courses to know by the user in UI that includes:
 
 - Navigation Bar  
 - Categories Section  
